@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1am6N--M-XnQaDE4VZCGHv6tO2Vh917Up/view?usp=drivesdk](https://drive.google.com/file/d/1am6N--M-XnQaDE4VZCGHv6tO2Vh917Up/view?usp=drivesdk)
 
-- ⚡ Fun fact **I debug faster with chai**
+- ⚡ Fun fact **I debug faster with chai ☺️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
