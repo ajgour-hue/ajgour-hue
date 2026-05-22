@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Gour</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajgour-hue&label=Profile%20views&color=0e75b6&style=flat" alt="ajgour-hue" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajgour-hue" alt="ajgour-hue" /></a> </p>
-
 - 🔭 I’m currently working on **making tool like perplexity**
 
 - 🌱 I’m currently learning **modern full stack development and DSA**
