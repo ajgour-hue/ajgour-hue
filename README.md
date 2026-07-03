@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Gour</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+my portfolio 
+https://portfolio1-theta-henna.vercel.app/#home
+
 - 🔭 I’m currently working on **making tool like perplexity**
 
 - 🌱 I’m currently learning **modern full stack development and DSA**
