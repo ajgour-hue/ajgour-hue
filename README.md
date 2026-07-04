@@ -33,8 +33,6 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/ajgour-hue)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajgour-hue&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)](https://git.io/streak-stats)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Ajay_Gour-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-gour)
