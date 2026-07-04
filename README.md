@@ -32,8 +32,8 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/ajgour-hue)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajgour-hue)](https://git.io/streak-stats)
+![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/ajgour-hue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajgour-hue&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)](https://git.io/streak-stats)
 
 ## Connect
 
