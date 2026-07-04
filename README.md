@@ -34,12 +34,6 @@
 - **Ask me about** -- full stack development, Java, and building real-world web applications
 - **Reach me** -- **ajaygour6264@gmail.com** · [LinkedIn](https://linkedin.com/in/ajay-gour) · [Portfolio](https://portfolio1-theta-henna.vercel.app/#home)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/3B82F6/ajgour-hue)
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/8B5CF6/ajgour-hue)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Ajay_Gour-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-gour)
