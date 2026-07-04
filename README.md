@@ -1,5 +1,9 @@
 # Hi, I'm Ajay Gour 👋
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Perplexity-like+AI+Tools;Always+Learning+DSA+%26+System+Design" alt="Typing SVG" />
+</p>
+
 📍 **India** | 💻 **Full Stack Developer** | 🌱 **Learning Modern Full Stack Dev & DSA**
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -33,6 +37,12 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/ajgour-hue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajgour-hue&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)](https://git.io/streak-stats)
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajgour-hue&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Ajay_Gour-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-gour)
