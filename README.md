@@ -36,12 +36,9 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/ajgour-hue)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajgour-hue&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)](https://git.io/streak-stats)
+![GitHub Contribution Graph](https://ghchart.rshah.org/3B82F6/ajgour-hue)
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajgour-hue&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
-</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/8B5CF6/ajgour-hue)
 
 ## Connect
 
