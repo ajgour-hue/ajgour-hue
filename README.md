@@ -38,7 +38,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Ajay_Gour-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-gour)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajgour-hue)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio1-theta-henna.vercel.app/#home)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://ajaystack.vercel.app/)
 [![Instagram](https://img.shields.io/badge/-aj____gour-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aj____gour)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aj_gour/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ajaygour6264)
