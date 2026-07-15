@@ -44,7 +44,7 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ajaygour6264)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ajaygoui9eu)
 
-📄 **[Resume / Experience](https://drive.google.com/file/d/1EiH39dLpNuGjpDl85g5hORF6LuMFBggo/view?usp=drivesdk)**
+📄 **[Resume / Experience](https://drive.google.com/file/d/1n64zovcyik12Xw-cl1-wKlnpO5PdMbmd/view?usp=drivesdk)**
 
 ---
 
