@@ -1,7 +1,7 @@
 # Hi, I'm Ajay Gour 👋
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Perplexity-like+AI+Tools;Always+Learning+DSA+%26+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Perplexity-like+AI+Tools;Always+Learning+DSA" alt="Typing SVG" />
 </p>
 
 📍 **India** | 💻 **Full Stack Developer** | 🌱 **Learning Modern Full Stack Dev & DSA**
